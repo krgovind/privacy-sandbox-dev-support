@@ -38,7 +38,7 @@ _For example: checkout or processing a credit card transaction_
 
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
-| [br.clear.sale/](https://br.clear.sale/)  | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial.  | [Api Documentation](https://api.clearsale.com.br/docs/behavior-analytics)  | [contact](mailto:integracao@clear.sale?subject=Behavior&nbsp;3PCD&nbsp;doubts) | 
+| <a name="clear-sale"></a>[br.clear.sale/](https://br.clear.sale/)  | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial.  | [Api Documentation](https://api.clearsale.com.br/docs/behavior-analytics)  | [contact](mailto:integracao@clear.sale?subject=Behavior&nbsp;3PCD&nbsp;doubts) | 
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### Embedded widgets
@@ -47,7 +47,7 @@ _For example: an embedded realtime chat or commenting widget_
 
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
-| [tawk.to](https://tawk.to)  | No reliance on 3PCs  | <!--  -->  | <!-- - -->  | 
+| <a name="tawk-to"></a>[tawk.to](https://tawk.to)  | No reliance on 3PCs  | <!--  -->  | <!-- - -->  | 
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### IDP/Sign-In
